@@ -1,0 +1,22 @@
+<annotation>
+    <folder>start</folder>
+    <filename>IMG_4222.jpg</filename>
+    <size>
+        <width>1737</width>
+        <height>3088</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Start</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.999424</xmin>
+            <ymin>290.906097</ymin>
+            <xmax>1736.999878</xmax>
+            <ymax>3076.003906</ymax>
+        </bndbox>
+    </object>
+</annotation>
